@@ -70,6 +70,7 @@
 ## About The Project
 
 Want to be updated in latest security news without getting to websites one by one? Here's a simple script to do just that.
+* [Project is based on](https://www.geeksforgeeks.org/performing-google-search-using-python-code/)
 
 ### Built With
 
@@ -104,11 +105,11 @@ This is an example of how to list things you need to use the software and how to
 
 Change this part of the code to specifiy what you want to search
 
-Just run the python script SocialMedia_WebScrapper
+![image](https://user-images.githubusercontent.com/51006392/126957158-f7fc4320-2d74-4f7b-9a0b-708ac5a5cd4f.png)
 
-![image](https://user-images.githubusercontent.com/51006392/126951304-3392c18c-16d6-4abc-b0d4-9611e1cc956a.png)
+Just run the python script SocialMedia_WebScrapper.py
 
-A JSON file is also created for that CVE
+A google.csv will be produced
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -131,7 +132,7 @@ Contributions are what make the open source community such an amazing place to b
 https://www.linkedin.com/in/johnmatthewcarbon/
 
 ## Improvements
-This pretty much barebones and for fun. I planning to implement the new libraries to fix deprecation issue.
+This pretty much barebones and for fun. I'm planning to implement the new libraries to fix deprecation issue.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
